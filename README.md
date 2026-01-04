@@ -2,13 +2,13 @@
 
 I write code. Sometimes it works.
 
-I’ve worked across **embedded systems**, **backend services**, **web**, **iOS**, and explored **ML**, **DSP**, **signal processing**, and **OpenRAN**.
+I’ve worked across embedded systems, network infrasructure, L2-L4 protocol, backend services, web, iOS, and explored ML, DSP, signal processing, and OpenRAN.
 
 I enjoy understanding systems end-to-end, from low-level protocols to user-facing applications.  
 Currently learning, building, breaking things, and occasionally shipping.
 
 If you’re working on something interesting (or think I should be), feel free to reach out:  
-📫 **rijal.irphotoarts@gmail.com**
+📫 **[rijal.irphotoarts@gmail.com](mailto:rijal.irphotoarts@gmail.com)**
 
 #### Tech stack (things I’ve actually used)
 <p align="left">
