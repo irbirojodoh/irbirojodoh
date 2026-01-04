@@ -1,8 +1,15 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-### Hi.
+### Hi, I'm rijal.
+[![LinkedIn Badge](https://img.shields.io/badge/-irphotoarts-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/irphotoarts)](https://www.linkedin.com/in/irphotoarts)
+[![X Badge](https://img.shields.io/badge/-@straotohpri-000000?style=flat&logo=x&logoColor=white&link=https://twitter.com/straotohpri)](https://twitter.com/straotohpri)
+[![Instagram Badge](https://img.shields.io/badge/-@irphotoarts-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/irphotoarts)](https://www.instagram.com/irphotoarts)
 
-I write code. Sometimes it works.
+
+
+
+
+I write code. Sometimes it works. Often end up digging a layer deeper than I probably should.
 
 I’ve worked across embedded systems, network infrasructure, L2-L4 protocol, backend services, web, iOS, and explored ML, DSP, signal processing, and OpenRAN.
 
