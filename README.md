@@ -3,7 +3,9 @@
 ### Hi, I'm rijal.
 [![LinkedIn Badge](https://img.shields.io/badge/-irphotoarts-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/irphotoarts)](https://www.linkedin.com/in/irphotoarts)
 [![X Badge](https://img.shields.io/badge/-@straotohpri-000000?style=flat&logo=x&logoColor=white&link=https://twitter.com/straotohpri)](https://twitter.com/straotohpri)
-[![Instagram Badge](https://img.shields.io/badge/-@irphotoarts-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/irphotoarts)](https://www.instagram.com/irphotoarts)
+[![Instagram Badge](https://img.shields.io/badge/-@irphotoarts-8a49a1?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/irphotoarts)](https://www.instagram.com/irphotoarts)
+[![Email Badge](https://img.shields.io/badge/-@irphotoarts-FE3C72?style=flat&logo=tinder&logoColor=white)](mailto:rijal.irphotoarts@gmail.com?subject=hi%20rijal%20%3C3)
+
 
 
 
